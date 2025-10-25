@@ -1,6 +1,6 @@
-title: toms blog
-description: is using Slate is a theme for GitHub Pages.
-show_downloads: true
+title: Welcome to Tom's World
+description: A starting point for all my stuff
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
