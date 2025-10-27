@@ -3,7 +3,7 @@ layout: default
 ---
 |              |                   |       |
 |:-------------|:------------------|:------|
-| <img src="http://www.mairs.ca/tom/images/image9.jpg" width="100" height="100">  | **Tom Mairs** <br>Team Builder : People Director <br>Integration Specialist : Fixer of things  | <img src="http://www.mairs.ca/tom/images/image10.png" width="20" height="20"> Calgary, AB <br> 	<img src="http://www.mairs.ca/tom/images/image12.png" width="20" height="20">  [@tommairs](https://www.linkedin.com/in/tommairs/) <br><img src="http://www.mairs.ca/tom/images/image6.jpg" width="20" height="20">  [/tommairs/](https://github.com/tommairs) |
+| <img src="https://tommairs.github.io/images/tommairs.jpeg" width="100" height="100">  | **Tom Mairs** <br>Team Builder : People Director <br>Integration Specialist : Fixer of things  | <img src="https://tommairs.github.io/images/mapspot.png" width="20" height="20"> Calgary, AB <br> 	<img src="https://tommairs.github.io/images/linkedin.png" width="20" height="20">  [@tommairs](https://www.linkedin.com/in/tommairs/) <br><img src="https://tommairs.github.io/images/github.png" width="20" height="20">  [/tommairs/](https://github.com/tommairs) |
 
 I've  spent the last 17 years working in the high-volume commercial email industry delivering solutions to customers. My full history includes decades of work on custom software, automation, field engineering and customer success.
 
