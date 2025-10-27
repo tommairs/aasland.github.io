@@ -2,8 +2,29 @@
 layout: default
 ---
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-Welcome to the world of Tom Mairs. I have a very wide range of interests that don't necessarily go together; a "Jack of all Trades", if you will. There is a nifty infographic here that puts the interesting things all in one place.
+
+![TomMairs](http://www.mairs.ca/tom/images/image9.jpg)
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ![TomMairs](http://www.mairs.ca/tom/images/image9.jpg)           | Tom Mairs
+Team Builder : People Director
+Integration Specialist : Fixer of things  | Calgary, AB  |
+
+
+
+
+
+
+
+
+
+# Its all about me!
+**Welcome to the world of Tom Mairs** 
+
+I have a very wide range of interests that don't necessarily go together; a "Jack of all Trades", if you will. There is a nifty infographic here that puts the interesting things all in one place.
 
 I have been working in the Computer/Electronics/Robotics industry(s) for longer than I care to admit, and some of my experience is actually useful.
 
