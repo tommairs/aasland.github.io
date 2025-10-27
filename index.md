@@ -6,7 +6,11 @@ layout: default
 <table><tr>
  <td> <img src="https://tommairs.github.io/images/tommairs.jpeg" width="100" height="100"> </td>
  <td> <b>Tom Mairs</b> <br>Team Builder <br>People Director <br>Integration Specialist <br>Fixer of things  </td>
- <td width=200> <img src="https://tommairs.github.io/images/mapspot.png" width="20" height="20"> Calgary, AB <br> 	<img src="https://tommairs.github.io/images/linkedin.png" width="20" height="20">  <a href="https://www.linkedin.com/in/tommairs/">@tommairs</a> <br><img src="https://tommairs.github.io/images/github.jpg" width="20" height="20">  <a href = "https://github.com/tommairs">/tommairs/</a> <br><img src="https://tommairs.github.io/images/instagram.png" width="20" height="20"> <a href = "https://www.instagram.com/tom.mairs/">@tommairs</a>
+ <td width=250 align=center> 
+ <img src="https://tommairs.github.io/images/mapspot.png" width="20" height="20">  Calgary, AB
+ <img src="https://tommairs.github.io/images/linkedin.png" width="20" height="20">  <a href="https://www.linkedin.com/in/tommairs/">@tommairs</a>
+ <img src="https://tommairs.github.io/images/github.jpg" width="20" height="20">  <a href = "https://github.com/tommairs">/tommairs/</a>
+ <img src="https://tommairs.github.io/images/instagram.png" width="20" height="20">  <a href = "https://www.instagram.com/tom.mairs/">@tommairs</a>
  </td>
 </tr>
 </table>
