@@ -2,16 +2,9 @@
 layout: default
 ---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
-![TomMairs](http://www.mairs.ca/tom/images/image9.jpg)
-
-| head1        | head two          | three |
+|         |            |  |
 |:-------------|:------------------|:------|
-| ![TomMairs](http://www.mairs.ca/tom/images/image9.jpg)           | Tom Mairs
-Team Builder : People Director
-Integration Specialist : Fixer of things  | Calgary, AB  |
+| ![TomMairs](http://www.mairs.ca/tom/images/image9.jpg)           | **Tom Mairs** <br>Team Builder : People Director <br>Integration Specialist : Fixer of things  | Calgary, AB  |
 
 
 
