@@ -2,9 +2,11 @@
 layout: default
 ---
 
-|         |            |  |
 |:-------------|:------------------|:------|
-| <img src="[https://your-image-url.type](http://www.mairs.ca/tom/images/image9.jpg)" width="100" height="100">  | **Tom Mairs** <br>Team Builder : People Director <br>Integration Specialist : Fixer of things  | Calgary, AB  |
+| <img src="http://www.mairs.ca/tom/images/image9.jpg" width="100" height="100">  | **Tom Mairs** <br>Team Builder : People Director <br>Integration Specialist : Fixer of things  | 
+<img src="http://www.mairs.ca/tom/images/image10.png" width="20" height="20"> Calgary, AB <br> 	
+<img src="http://www.mairs.ca/tom/images/image12.png" width="20" height="20">  [@tommairs](https://www.linkedin.com/in/tommairs/) <br>
+<img src="http://www.mairs.ca/tom/images/image6.jpg" width="20" height="20">  [/tommairs/](https://github.com/tommairs) |
 
 
 
