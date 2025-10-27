@@ -6,7 +6,7 @@ layout: default
 <table><tr>
  <td> <img src="https://tommairs.github.io/images/tommairs.jpeg" width="100" height="100"> </td>
  <td> <b>Tom Mairs</b> <br>Team Builder <br>People Director <br>Integration Specialist <br>Fixer of things  </td>
- <td width=250 align=center> 
+ <td width=200> 
  <a href="https://www.linkedin.com/in/tommairs/">LinkedIn</a><br>
  <a href = "https://github.com/tommairs">GitHub</a><br>
  <a href = "https://www.instagram.com/tom.mairs/">Instagram</a><br>
