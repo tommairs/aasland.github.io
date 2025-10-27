@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+|              |                   |       |
 |:-------------|:------------------|:------|
 | <img src="http://www.mairs.ca/tom/images/image9.jpg" width="100" height="100">  | **Tom Mairs** <br>Team Builder : People Director <br>Integration Specialist : Fixer of things  | 
 <img src="http://www.mairs.ca/tom/images/image10.png" width="20" height="20"> Calgary, AB <br> 	
