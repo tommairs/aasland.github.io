@@ -1,4 +1,8 @@
-blog posts
+---
+layout: default
+---
+
+Aasland Technologies blog posts
 
 History: 2025 2024 2023 2022 2021 2020
 
