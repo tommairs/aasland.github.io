@@ -2,9 +2,6 @@
 layout: aasland
 ---
 
-## About AASLAND TECHNOLOGIES
-This is a place to explore interesting technology and share ideas. You can visit the social and main websites for Aasland Technologies using the links below.
-
 The less technical alternate blog is at [TheBleedingEdge.ca](https://TheBleedingEdge.ca)
 
 Like what you see? [DONATE A COFFEE](https://donate.stripe.com/5kA4hi82GghS8Ny9AA?locale=en&__embed_source=buy_btn_1MvQKwDpVpVZQwxejMYUS1au)
@@ -12,18 +9,17 @@ Like what you see? [DONATE A COFFEE](https://donate.stripe.com/5kA4hi82GghS8Ny9A
 
 ### Chronological list of posts
 
-2024-10-12
-
-**Wake up, Neo...**
+2024-10-12  **Wake up, Neo...**
 
 image
 
 We’re not building Skynet; We’re building The Matrix. Whoever thought it would be a good idea to release Artificial Intelligence to the masses without incorporating the three laws of robotics, needs to be held accountable. Did none of these people read any Isaac Asimov? Or Arthur C. Clarke? Or William Gibson? Of course, the 3… [Continue reading](https://blog.aasland.com/2024/10/12/wake-up-neo/)
 
 
-2024-03-10
-Making It
+2024-03-10  **Making It**
+
 image
+
 For years, I have been saying, “You know, if I had a 3D printer, I’d just make that,” while pointing at some small broken thing I can’t find a replacement for. There are game pieces I have needed to replace and can never find. There are simple plastic holders and fasteners that should only cost… [Continue reading](https://blog.aasland.com/2024/03/10/making-it/)
 
 2023-08-18
