@@ -13,7 +13,7 @@ Like what you see? [DONATE A COFFEE](https://donate.stripe.com/5kA4hi82GghS8Ny9A
 
 <img src="https://tommairs.github.io/images/matrix-and-soccer.jpeg" width="100" height="100"> 
 
-We’re not building Skynet; We’re building The Matrix. Whoever thought it would be a good idea to release Artificial Intelligence to the masses without incorporating the three laws of robotics, needs to be held accountable. Did none of these people read any Isaac Asimov? Or Arthur C. Clarke? Or William Gibson? Of course, the 3… [Continue reading](https://blog.aasland.com/2024/10/12/wake-up-neo/)
+We’re not building Skynet; We’re building The Matrix. Whoever thought it would be a good idea to release Artificial Intelligence to the masses without incorporating the three laws of robotics needs to be held accountable. Did none of these people read any Isaac Asimov? Or Arthur C. Clarke? Or William Gibson? Of course, the 3… [Continue reading](https://blog.aasland.com/2024/10/12/wake-up-neo/)
 
 
 2024-03-10  **Making It**
