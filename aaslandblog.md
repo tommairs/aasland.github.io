@@ -1,13 +1,23 @@
 ---
 layout: aasland
 ---
-## History: 
-2025 2024 2023 2022 2021 2020
 
+## About AASLAND TECHNOLOGIES
+This is a place to explore interesting technology and share ideas. You can visit the social and main websites for Aasland Technologies using the links below.
+
+The less technical alternate blog is at [TheBleedingEdge.ca](https://TheBleedingEdge.ca)
+
+Like what you see? [DONATE A COFFEE](https://donate.stripe.com/5kA4hi82GghS8Ny9AA?locale=en&__embed_source=buy_btn_1MvQKwDpVpVZQwxejMYUS1au)
+
+
+### Chronological list of posts
 
 2024-10-12
-Wake up, Neo…
+
+**Wake up, Neo...**
+
 image
+
 We’re not building Skynet; We’re building The Matrix. Whoever thought it would be a good idea to release Artificial Intelligence to the masses without incorporating the three laws of robotics, needs to be held accountable. Did none of these people read any Isaac Asimov? Or Arthur C. Clarke? Or William Gibson? Of course, the 3… [Continue reading](https://blog.aasland.com/2024/10/12/wake-up-neo/)
 
 
